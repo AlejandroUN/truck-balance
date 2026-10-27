@@ -1,5 +1,5 @@
 // Guarda la app en el teléfono para que abra rápido y sin señal. Los datos siempre van a la hoja de Google.
-const CACHE = 'app-20261027215848';
+const CACHE = 'app-20261027220749';
 const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'apple-touch-icon.png'];
 
 self.addEventListener('install', event => {
